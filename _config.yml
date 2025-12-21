@@ -45,12 +45,24 @@ external-links:    # input only your own url slug. The icons with missing entrie
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
-  - category: 3D Modeling
+  - category: CAD & Design
     tools:
     - Solidworks
     - Fusion 360 (Autodesk)
-    - ANSYS Discovery
     - SpaceClaim
+    - OpenVSP
+  - category: Simulation and Analysis
+    tools:
+    - ANSYS Mechanical
+    - ANSYS Fluent
+    - Basilisk
+    - OpenFOAM
+    - XFLR5
+  - category: Computation and Programming
+    tools:
+    - MATLAB
+    - C
+    - python
   - category: Prototyping
     tools:
     #- SLA
