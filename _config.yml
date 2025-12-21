@@ -101,7 +101,7 @@ colors: # this is the basic theme
   link: "#40b3a2"
   highlight: "#BB86FC"
   background: "#121212"
-  light_background: white
+  light_background: "#D3D3D3"
   
 # A few examples. 
 basic theme:
