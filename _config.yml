@@ -17,7 +17,7 @@ headline: Curiosity inspires innovation
 description: >- # dont remove this line. this will ignore all new lines until the next section
   Aspiring Mechanical Engineer with interest in FEA, CFD, Solver memoization,
   MATLAB based first principle models as well as PINNs.
-  Ocassional competitive coder. Passionate runner.
+  Passionate runner.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
@@ -25,7 +25,7 @@ profile_image: ./assets/images/profile-image/avatar.jpeg
 
 # Link your resume
 # You can place your resume in assets/resume/{resume.pdf or add external link such as pdf saved in google drive 
-resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/view?usp=sharing # or /assets/resume/resume.pdf
+resume-url: https://github.com/Assembly00111/Resume/blob/Main/Malhar_Resume.pdf # or /assets/resume/resume.pdf
 
 
 # Set up external links - this will show up as small icons next to your name.
@@ -61,13 +61,13 @@ skills:
   - category: Computation and Programming
     tools:
     - MATLAB
-    - C
+    - C/C++
     - python
   - category: Prototyping
     tools:
     #- SLA
     - CNC
-    #- FDM
+    - FDM
     #- SLS
     #- DMLS
     #- PolyJet Printing
