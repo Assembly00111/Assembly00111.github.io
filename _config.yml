@@ -4,7 +4,7 @@
 # which you are expected to set up once and rarely edit after that. If you find
 # yourself editing this file very often, consider using Jekyll's data files
 # feature for the data you need to update frequently.
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 # Main Page Setup
 
 title: Malhar Patwardhan's Portfolio # This is what shows up in the tab of the browser
@@ -31,7 +31,9 @@ resume-url: ./assets/resume/Resume.pdf # or /assets/resume/resume.pdf
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: www.linkedin.com/in/malhar-patwardhan-392132325    # https://www.linkedin.com/in/{your url slug} 
+  linkedin: www.linkedin.com/in/malhar-patwardhan-392132325   # https://www.linkedin.com/in/{your url slug}
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="malhar-patwardhan-392132325" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/malhar-patwardhan-392132325?trk=profile-badge">Malhar Patwardhan</a></div>
+                
   github: https://github.com/Assembly00111    # https://github.com/{your url slug} 
   # stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
   # medium:            # https://medium.com/@{your url slug} 
